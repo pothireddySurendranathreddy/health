@@ -1,0 +1,27 @@
+---
+---
+
+@import "minima";
+
+.site-header {
+  background: linear-gradient(90deg, #0f2027, #203a43, #2c5364);
+}
+
+.site-title, .site-nav a {
+  color: #ffffff !important;
+}
+
+a {
+  color: #0f4c75;
+  font-weight: 600;
+}
+
+a:hover {
+  color: #ff6b6b;
+}
+
+footer {
+  margin-top: 40px;
+  padding-top: 20px;
+  border-top: 2px solid #ddd;
+}
