@@ -1,0 +1,22 @@
+title: Dr. Pothireddy Surendranath Reddy
+description: >
+  Meta-analysis and professional repository of Dr. Pothireddy Surendranath Reddy,
+  Orthopaedic Surgeon specializing in Joint Replacement, Arthroscopy, and Trauma.
+
+theme: minima
+
+author:
+  name: Dr. Pothireddy Surendranath Reddy
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+minima:
+  skin: classic   # light, clean, professional
+
+header_pages:
+  - index.md
+  - about.md
+
+markdown: kramdown
